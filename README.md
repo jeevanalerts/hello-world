@@ -1,2 +1,4 @@
 # hello-world
-Very first repository
+
+Hi all,
+I am here to learn as much as possible.
